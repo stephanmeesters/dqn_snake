@@ -20,4 +20,4 @@ Play pretrained model:
 python play.py
 ```
 
-<img src="snake-animation.gif" />
+<img src="snake_animation.gif" />
